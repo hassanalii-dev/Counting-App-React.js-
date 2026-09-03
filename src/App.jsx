@@ -1,4 +1,5 @@
 import { useState } from "react";
+import "./App.css"
 
 function App() {
   // Counter States
@@ -129,7 +130,6 @@ function App() {
             }}
           />
 
-          <br />
           <br />
 
           <button type="submit">Calculate BMI</button>
